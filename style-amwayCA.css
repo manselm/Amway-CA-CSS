@@ -660,7 +660,8 @@ button.activated {
 /* How It Works */
 
 #hiw-images img {
-	border:1px solid #c7c7c8;	
+	border:1px solid #c7c7c8;
+	height:188px;	
 }
 
 #hiw-images p.center-block {
