@@ -693,6 +693,7 @@ button.activated {
   position: relative;
   display: inline-block;
   vertical-align: top;
+  z-index:101;
 }
 
 /* Styles that apply to all SelectBoxIt elements */
