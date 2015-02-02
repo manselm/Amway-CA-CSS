@@ -386,6 +386,10 @@ ul.nav-sidebar li a.active {
 	display:none;
 }
 
+#carouselButtons .stop #playButton {
+	display:none;	
+}
+
 #pauseButton {
 	background-color:#494948	;
 }
@@ -1255,7 +1259,7 @@ footer #copyright {
 }
 
 #carouselButtons {
-	left:33%;	
+	left:0%;	
 }
 }
 .navbar-right {
@@ -1267,8 +1271,8 @@ footer #copyright {
 }
 
 #carouselButtons {
-	left:30%;	
-	margin-right:21px;
+	xleft:30%;	
+	margin-right:9px;
 }
 
 }
