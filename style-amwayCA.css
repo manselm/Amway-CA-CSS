@@ -151,6 +151,8 @@ input[type="text"]{
 .offcanvas ul.navmenu-nav li a, .offcanvas ul.navmenu-nav li a:hover, .offcanvas ul.navmenu-nav li a:focus, .offcanvas ul.navmenu-nav li a:active, .offcanvas ul.navmenu-nav li.open a {
 	color: #FFF !important;
 	xfont-weight:bold;	
+	position:relative;
+	z-index:99999;	
 }
 
 .offcanvas ul.navmenu-nav li a, .offcanvas ul.navmenu-nav li.open a:active, .offcanvas ul.navmenu-nav li.open a:focus {
